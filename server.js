@@ -19,7 +19,7 @@ var article={
   },
    articletwo : { 
       title : 'Article-Two   |  haripriya remesh',
-      heading: '',
+      heading: 'Savitribai Phule',
       date:'',
       content:''
   },
