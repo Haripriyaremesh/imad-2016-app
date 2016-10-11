@@ -12,19 +12,19 @@ app.get('/', function (req, res) {
 var article={
   
   articleone : { 
-      title : '',
+      title : 'Article-One   |  haripriya remesh',
       heading: '',
       date:'',
       content:''
   },
    articletwo : { 
-      title : '',
+      title : 'Article-Two   |  haripriya remesh',
       heading: '',
       date:'',
       content:''
   },
    articlethree : { 
-      title : '',
+      title : 'Article-Three  |  haripriya remesh',
       heading: '',
       date:'',
       content:''
