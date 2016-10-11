@@ -25,7 +25,7 @@ var article={
   },
    articlethree : { 
       title : 'Article-Three  |  haripriya remesh',
-      heading: '',
+      heading: 'Kamaladevi Chattopadhyay',
       date:'',
       content:''
   }
