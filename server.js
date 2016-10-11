@@ -15,7 +15,16 @@ var article={
       title : 'Article-One   |  haripriya remesh',
       heading: 'Kalpana Chawla',
       date:'5/10/2016',
-      content:''
+      content:`<p>
+         Kalpana Chawla was born on March 17, 1962.Her official date of birth was altered to 1 July 1961 to allow her to join school underage.While other children of her age dressed their Barbie dolls, Kalpana liked to draw the pictures of airplanes.
+        </p>
+         
+         <p>
+         Kalpana Chawla was born on March 17, 1962.Her official date of birth was altered to 1 July 1961 to allow her to join school underage.While other children of her age dressed their Barbie dolls, Kalpana liked to draw the pictures of airplanes.
+        </p>
+        <p>
+         Kalpana Chawla was born on March 17, 1962.Her official date of birth was altered to 1 July 1961 to allow her to join school underage.While other children of her age dressed their Barbie dolls, Kalpana liked to draw the pictures of airplanes.
+        </p>`
   },
    articletwo : { 
       title : 'Article-Two   |  haripriya remesh',
