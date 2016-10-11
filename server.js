@@ -14,19 +14,19 @@ var article={
   articleone : { 
       title : 'Article-One   |  haripriya remesh',
       heading: 'Kalpana Chawla',
-      date:'',
+      date:'5/10/2016',
       content:''
   },
    articletwo : { 
       title : 'Article-Two   |  haripriya remesh',
       heading: 'Savitribai Phule',
-      date:'',
+      date:'6/10/2016',
       content:''
   },
    articlethree : { 
       title : 'Article-Three  |  haripriya remesh',
       heading: 'Kamaladevi Chattopadhyay',
-      date:'',
+      date:'7/10/2016',
       content:''
   }
     
