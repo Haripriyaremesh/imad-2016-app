@@ -13,7 +13,7 @@ var article={
   
   articleone : { 
       title : 'Article-One   |  haripriya remesh',
-      heading: '',
+      heading: 'Kalpana Chawla',
       date:'',
       content:''
   },
