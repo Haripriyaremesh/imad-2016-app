@@ -49,7 +49,7 @@ var article={
 function createTemplate(data)
 {
   title=data.title;
-  headin=data.heading;
+  heading=data.heading;
   date=data.date;
   content=data.content;
   
