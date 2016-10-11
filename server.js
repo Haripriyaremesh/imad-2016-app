@@ -16,6 +16,18 @@ var article={
       heading: '',
       date:'',
       content:''
+  },
+   articletwo : { 
+      title : '',
+      heading: '',
+      date:'',
+      content:''
+  },
+   articlethree : { 
+      title : '',
+      heading: '',
+      date:'',
+      content:''
   }
     
 };
