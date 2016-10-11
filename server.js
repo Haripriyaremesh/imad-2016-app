@@ -31,7 +31,7 @@ var article={
       heading: 'Savitribai Phule',
       date:'6/10/2016',
       content:`<p>
-             
+             Savitribai Phule was born in 1831 in Naigaon, Maharashtra. Her family were farmers.[2] At the age of nine, she was married to twelve-year-old Jyotirao Phule in 1840.[citation needed] Savitribai and Jyotirao had no children of their own. However, the couple adopted Yashavantrao, who was the son of a widowed Brahmin.[3] 
          </p>`
         
   },
