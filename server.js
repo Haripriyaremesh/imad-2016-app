@@ -39,7 +39,9 @@ var article={
       title : 'Article-Three  |  haripriya remesh',
       heading: 'Kamaladevi Chattopadhyay',
       date:'7/10/2016',
-      content:''
+      content:`<p>
+           Kamaladevi Chatt Kamaladevi Chattopadhyay was an Indian social reformer and freedom fighter. She is most remembered for her contribution to the Indian independence movement; for being the driving force behind the renaissance of Indian handicrafts, handlooms, and theatre in independent India; and for upliftment of the socio-economic standard of Indian women by pioneering the co-operative movement.   
+      </p>`
   }
     
 };
