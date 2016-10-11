@@ -49,7 +49,13 @@ var article={
 function createTemplate(data)
 {
   title=data.title;
+  headin=data.heading;
+  date=data.date;
+  content=data.content;
   
+  var htmlTemplate=
+    `<html>
+    </html>`;
 }
 
 app.get('/ui/style.css', function (req, res) {
