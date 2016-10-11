@@ -11,7 +11,7 @@ app.get('/', function (req, res) {
 
 var article={
   
-  articleone : { 
+  `article-one` : { 
       title : 'Article-One   |  haripriya remesh',
       heading: 'Kalpana Chawla',
       date:'5/10/2016',
@@ -26,7 +26,7 @@ var article={
          Kalpana Chawla was born on March 17, 1962.Her official date of birth was altered to 1 July 1961 to allow her to join school underage.While other children of her age dressed their Barbie dolls, Kalpana liked to draw the pictures of airplanes.
         </p>`
   },
-   articletwo : { 
+   `article-two` : { 
       title : 'Article-Two   |  haripriya remesh',
       heading: 'Savitribai Phule',
       date:'6/10/2016',
@@ -35,7 +35,7 @@ var article={
          </p>`
         
   },
-   articlethree : { 
+   `article-three` : { 
       title : 'Article-Three  |  haripriya remesh',
       heading: 'Kamaladevi Chattopadhyay',
       date:'7/10/2016',
