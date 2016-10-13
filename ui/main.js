@@ -1,6 +1,6 @@
 console.log('Loaded!');
 
-//image to move
+/*//image to move
 var img=document.getElementById('modi');
 var marginLeft=0;
 function moveRight()
@@ -14,4 +14,4 @@ img.onclick=function()
   img.style.marginLeft='100px';
   console.log("hi")
   //var interval=setInterval(MoveRight,50);  
-};
+};*/
