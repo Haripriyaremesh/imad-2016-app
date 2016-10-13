@@ -3,8 +3,8 @@ var element= document.getElementById('main-text');
 element.innerHTML="new value";
 
 //image to move
-/*var img=document.getElementById('modi');
-var marginLeft=0;
+var img=document.getElementById('modi');
+/*var marginLeft=0;
 function moveRight()
 {
   marginLeft=marginLeft+10;
