@@ -4,16 +4,15 @@ element.innerHTML="new value";
 
 //image to move
 var img=document.getElementById('modi');
-//var marginLeft=0;
-//function moveRight()
-//{
-   // alert('hi');
-  //marginLeft=marginLeft+10;
-  //img.style=marginLeft+ 'px';
+var marginLeft=0;
+function moveRight()
+{
+  marginLeft=marginLeft+10;
+  img.style=marginLeft+ 'px';
   
-//}  
+}  
 img.onclick=function()
 {
-  img.style.marginLeft='100px';
-  //var interval=setInterval(MoveRight,100);  
+  
+  var interval=setInterval(MoveRight,100);  
 };
