@@ -8,11 +8,11 @@ var marginLeft=0;
 function moveRight()
 {
   marginLeft=marginLeft+10;
-  img.style=marginLeft+ 'px';
+  img.style.marginLeft=marginLeft+ 'px';
   
 }  
 img.onclick=function()
 {
-  
+  imag.
   var interval=setInterval(MoveRight,50);  
 };
