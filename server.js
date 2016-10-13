@@ -22,7 +22,7 @@ app.get('/ui/madi.png', function (req, res) {
 });
 
 
-/*var article = {
+var article = {
    'article-one' : { 
       title : 'Article-One   |  haripriya remesh',
       heading: 'Kalpana Chawla',
@@ -101,7 +101,7 @@ app.get('/:articleName', function (req, res) {
   var articleName=req.params.articleName;
   res.send(createTemplate(article[articleName]));
 });
-*/
+
 
 
 var port = 8080; // Use 8080 for local development because you might already have apache running on 80
