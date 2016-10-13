@@ -2,7 +2,7 @@ console.log('Loaded!');
 var element= document.getElementById('main-text');
 element.innerHTML="new value";
 
-//image to move
+/*//image to move
 var img=document.getElementById('modi');
 var marginLeft=0;
 function moveRight()
@@ -16,4 +16,4 @@ img.onclick=function()
   img.style.marginLeft='100px';
   
   //var interval=setInterval(MoveRight,50);  
-};
+};*/
