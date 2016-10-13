@@ -7,6 +7,7 @@ var img=document.getElementById('modi');
 var marginLeft=0;
 function moveRight()
 {
+    alert('hi');
   marginLeft=marginLeft+10;
   img.style=marginLeft+ 'px';
   
